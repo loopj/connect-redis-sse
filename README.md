@@ -1,8 +1,9 @@
 Connect.js Server-Sent Events with Redis
 ========================================
 
-Connect/Express middleware for publishing Server-Sent Events (EventSource)
-using Redis pub/sub.
+Connect/Express middleware for publishing
+[Server-Sent Events](http://en.wikipedia.org/wiki/Server-sent_events)
+(EventSource) using Redis pub/sub.
 
 
 Usage
