@@ -1,0 +1,12 @@
+{
+  "name": "connect-redis-sse",
+  "version": "0.1.0",
+  "description": "Connect/Express middleware for publishing Server-Sent Events (EventSource) using Redis pub/sub.",
+  "main": "./lib/index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/loopj/node-redis-sse"
+  },
+  "author": "James Smith <james@loopj.com>",
+  "license": "MIT"
+}
